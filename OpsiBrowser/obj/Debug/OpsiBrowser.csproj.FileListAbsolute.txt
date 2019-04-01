@@ -1,0 +1,12 @@
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.csprojAssemblyReference.cache
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.Properties.Resources.resources
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.csproj.GenerateResource.cache
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\bin\Debug\OpsiBrowser.exe.config
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\bin\Debug\OpsiBrowser.exe
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\bin\Debug\OpsiBrowser.pdb
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\bin\Debug\MaterialSkin.dll
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.csproj.CopyComplete
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.exe
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.pdb
+C:\Users\Anıl Adem Yener\source\repos\OpsiBrowser\OpsiBrowser\obj\Debug\OpsiBrowser.Main.resources
